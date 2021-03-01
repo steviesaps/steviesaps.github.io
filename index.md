@@ -2,7 +2,7 @@
 
 Welcome to my first AWS re/Start GitHub page.
 
-This is a portfolio of my first foray in Python.
+This is a portfolio of my first foray in Python as part of the AWS re/Start course.
 
 ### Markdown
 
