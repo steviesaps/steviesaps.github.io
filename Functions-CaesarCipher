@@ -12,7 +12,7 @@ def getMessage():
    return stringToEncrypt
 
 
-# defining a function - requesting a cipher key
+# defining a function - requesting a cipher key (26 would just shift the alphabet to the original position)
 
 def getCipherKey():
    shiftAmount = input( "Please enter a key (whole number from 1-25): ")
