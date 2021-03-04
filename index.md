@@ -26,13 +26,13 @@ print(newStr)
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### My Background
 
 I have a background based in Media, having previously worked in broadcast TV production in London, followed by a stint in post-Production, onboarding media to aircraft.  
 I have 
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
