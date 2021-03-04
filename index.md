@@ -58,6 +58,8 @@ I have
 
 ### Contact
 
-I'm available for entry level roles on stevie.saponja@gmail.com
+I'm available now to discuss entry level roles on stevie.saponja@gmail.com
 
-My full job history, experience and skills can be explored on my linked in profile at: [HERE](https://www.linkedin.com/in/stevie-saponja-4161531a/)
+My full job history, experience and skills can be explored on my LinkedIn profile at: [HERE](https://www.linkedin.com/in/stevie-saponja-4161531a/)
+
+I look forward to hearing from you!
