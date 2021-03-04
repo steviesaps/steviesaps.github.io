@@ -4,24 +4,24 @@ Welcome to my first AWS re/Start GitHub page.
 
 This is a portfolio of my first foray in Python as part of the AWS re/Start course.
 
-### Markdown
+### Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are some examples of the Python I have coded using the hands on labs during this course:
 
 ```markdown
-Syntax highlighted code block
+#FunWIthStrings.py
 
-# Header 1
-## Header 2
-### Header 3
+first_str = "I love dogs"
 
-- Bulleted
-- List
+second_Str = " and cats"
 
-1. Numbered
-2. List
+newstr = first_str + second_str
 
-**Bold** and _Italic_ and `Code` text
+print(newStr) 
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
