@@ -49,7 +49,73 @@ try:
 except IOError:
     print("There was a problem writing to the history file.")
 ```
+```markdown
+#FunWIthFunctions - The Caesar Cipher
+# defining a function - 'getDoubleAlphabet'
 
+def getDoubleAlphabet(alphabet):
+   doubleAlphabet = alphabet + alphabet
+   return doubleAlphabet
+
+
+# defining a function - that will request a message to encrypt
+
+def getMessage():
+   stringToEncrypt = input("Please enter a message to encrypt: ")
+   return stringToEncrypt
+
+
+# defining a function - requesting a cipher key (26 would just shift the alphabet to the original position)
+
+def getCipherKey():
+   shiftAmount = input( "Please enter a key (whole number from 1-25): ")
+   return shiftAmount
+
+
+# coding for a message encryption algorithm.  
+# 3 arguments - the message, the cipherKey & the alphabet
+
+def encryptMessage(message, cipherKey, alphabet):
+    encryptedMessage = ""
+    uppercaseMessage = ""
+    uppercaseMessage = message.upper()
+    for currentCharacter in uppercaseMessage:
+        position = alphabet.find(currentCharacter)
+        newPosition = position + int(cipherKey)
+        if currentCharacter in alphabet:
+            encryptedMessage = encryptedMessage + alphabet[newPosition]
+        else:
+            encryptedMessage = encryptedMessage + currentCharacter
+    return encryptedMessage
+
+
+# decrypting the message - reuses the encryptMessage() function
+
+def decryptMessage(message, cipherKey, alphabet):
+    decryptKey = -1 * int(cipherKey)
+    return encryptMessage(message, decryptKey, alphabet)
+
+# using the previous functions to create a 'Caesar Cipher' program - also a function
+# defining the string that is the alphabet that the above functions use.
+
+def runCaesarCipherProgram():
+    myAlphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    print(f'Alphabet: {myAlphabet}')
+    myAlphabet2 = getDoubleAlphabet(myAlphabet)
+    print(f'Alphabet2: {myAlphabet2}')
+    myMessage = getMessage()
+    print(myMessage)
+    myCipherKey = getCipherKey()
+    print(myCipherKey)
+    myEncryptedMessage = encryptMessage(myMessage, myCipherKey, myAlphabet2)
+    print(f'Encrypted Message: {myEncryptedMessage}')
+    myDecryptedMessage = decryptMessage(myEncryptedMessage, myCipherKey, myAlphabet2)
+    print(f'Decypted Message: {myDecryptedMessage}')
+    
+    
+# to run the cipher - you must call the function
+runCaesarCipherProgram()
+```
 
 ### Some quiz results from my time on the course
 [Reading and Writing CSV Files in Python](https://realpython.com/quizzes/python-csv/results/?t=eyJjIjo3LCJuIjo3LCJxIjozNCwic2lnIjoiempFM1k1MV8kZE5XUEg2IX4oaXNDUE9gdXc1WXVadyNSaXtnezFuKyIsInQiOjc2LCJ2IjozfQ==)
