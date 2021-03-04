@@ -51,10 +51,15 @@ except IOError:
 ```
 
 
+### Some quiz results from my time on the course
+[Reading and Writing CSV Files in Python](https://realpython.com/quizzes/python-csv/results/?t=eyJjIjo3LCJuIjo3LCJxIjozNCwic2lnIjoiempFM1k1MV8kZE5XUEg2IX4oaXNDUE9gdXc1WXVadyNSaXtnezFuKyIsInQiOjc2LCJ2IjozfQ==)
+
+
 ### My Background
 
-I have a background based in Media, having previously worked in broadcast TV production in London, followed by a stint in post-Production, onboarding media to aircraft.  
-I have 
+I have always been curious about new technology - furthering my understanding of these and constantly enhancing my skill set were key when undertaking this course.  I don't come from a traditional tech background.  I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
+
+
 
 ### Contact
 
