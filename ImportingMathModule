@@ -1,0 +1,6 @@
+import math
+
+print( math.fabs(4))
+
+print( math.floor(4.6))
+
