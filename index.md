@@ -6,7 +6,7 @@ This is a portfolio of my first foray in Python as part of the AWS re/Start cour
 
 ### Python
 
-Below are some examples of the Python I have coded using the hands on labs during this course:
+Below are some examples of how I've progressed with Python using the hands on labs during this course:
 
 ```markdown
 #FunWIthStrings.py
@@ -125,12 +125,13 @@ runCaesarCipherProgram()
 
 I have always been curious about new technology - furthering my understanding of these and constantly enhancing my skill set were key when undertaking this course.  I don't come from a traditional tech background.  I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
 
+My full job history, experience and skills can be explored on my LinkedIn profile at: [HERE](https://www.linkedin.com/in/stevie-saponja-4161531a/)
 
 
 ### Contact
 
 I'm available now to discuss entry level roles on stevie.saponja@gmail.com
 
-My full job history, experience and skills can be explored on my LinkedIn profile at: [HERE](https://www.linkedin.com/in/stevie-saponja-4161531a/)
+
 
 I look forward to hearing from you!
