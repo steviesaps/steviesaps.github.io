@@ -35,4 +35,5 @@ I have
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm available for entry level roles on stevie.saponja@gmail.com
+My full job history, experience and skills can be explored on my linked in profile at: https://www.linkedin.com/in/stevie-saponja-4161531a/
