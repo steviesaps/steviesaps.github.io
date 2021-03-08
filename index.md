@@ -62,7 +62,7 @@ Education
 </div>
 </h2>
 <div class="item">
-<h4 class="degree">BA Film and Television Studies</h4>
+<h4 class="degree">Degree: BA Film and Television Studies</h4>
 <h5 class="meta">University of Nottingham</h5>
 <div class="time">2009 - 2013</div>
       
@@ -70,14 +70,14 @@ Education
 
 </div>
 <div class="item">
-<h4 class="A-Levels">A,B,B</h4>
+<h4 class="A-Levels">A Levels: A,B,B</h4>
 <h5 class="meta">City of Stoke on Trent Sixth Form</h5>
 <div class="time">2006 - 2008</div>
       
 </div>
 </div>
 <div class="item">
-<h4 class="GCSEs">6 A*s, 4 As, 1 B</h4>
+<h4 class="GCSEs">GCSEs: 6 A*s, 4 As, 1 B</h4>
 <h5 class="meta">Wolstanton High School</h5>
 <div class="time">2001 - 2006</div>
       
