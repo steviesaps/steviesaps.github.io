@@ -101,10 +101,10 @@ Education
 </span>
 Career Profile
 </h2>
+      
 <div class="summary">
-<p>I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
-
-.</p>
+<p> I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
+</p>
 </div>
 </section>
 <section class="section experiences-section">
@@ -118,10 +118,10 @@ Experiences
 <div class="item">
 <div class="meta">
 <div class="upper-row">
-<h3 class="job-title">Lead Developer</h3>
-<div class="time">2015 - Present</div>
+<h3 class="job-title">Researcher (Freelance)</h3>
+<div class="time">October 2020 - November 2020</div>
 </div>
-<div class="company">Startup Hubs, San Francisco</div>
+<div class="company">NBCUniversal</div>
 </div>
 <div class="details">
 <p>Describe your role here lorem ipsum dolor sit amet, consectetuer
