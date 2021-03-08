@@ -53,6 +53,12 @@
 Education
 </h2>
 <div class="item">
+<h4 class="AWS">AWS re/Start</h4>
+<h5 class="meta">TechTalent Academy</h5>
+<div class="time">February 2021 - April 2021</div>
+</div>
+</h2>
+<div class="item">
 <h4 class="degree">BA Film and Television Studies</h4>
 <h5 class="meta">University of Nottingham</h5>
 <div class="time">2009 - 2013</div>
@@ -81,16 +87,7 @@ English
 
 <div class="remove-container container-block">
 <h2 class="container-block-title">
-About Theme
-</h2>
-<ul class="list-unstyled interests-list">
-<li><a target="_blank" href="https://www.youtube.com/watch?v=Jnmj1dXDbNk">How to use?</a></li>
-<li><a class="github-button" href="https://github.com/sharu725/online-cv" data-icon="octicon-star" data-show-count="true" aria-label="Star sharu725/online-cv on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-</ul>
-</div>
-</div>
-<div class="main-wrapper">
+
 <section class="section summary-section">
 <h2 class="section-title">
 <span class="fa-stack fa-xs">
@@ -100,12 +97,9 @@ About Theme
 Career Profile
 </h2>
 <div class="summary">
-<p>Summarise your career here lorem ipsum dolor sit amet, consectetuer
-adipiscing elit. You can <a href="">download this free resume/CV template here</a>.
-Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Donec quam felis, ultricies nec, pellentesque eu.
-Second paragraph if required.</p>
+<p>I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
+
+.</p>
 </div>
 </section>
 <section class="section experiences-section">
