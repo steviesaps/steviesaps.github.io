@@ -4,7 +4,6 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-<title>My Resume</title>
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,7 +27,6 @@
 <div class="wrapper">
 <div class="sidebar-wrapper">
 <div class="profile-container">
-<img class="avatar" src="/online-cv/assets/images/profile.png" alt="profile picture" />
 <h1 class="name">Stevie Saponja</h1>
 <h3 class="tagline">Resume</h3>
 </div>
@@ -38,16 +36,14 @@
 <a href="mailto:stevie.saponja@gmail.com">stevie.saponja@gmail.com</a>
 </li>
 <li class="phone"><i class="fas fa-phone"></i>
-<a href="tel:012 345 6789">012 345 6789</a>
-</li>
-<li class="website"><i class="fas fa-globe-americas"></i>
-<a href="http://blog.webjeda.com" target="_blank">blog.webjeda.com</a>
+<a href="tel:07732599969">07732 599 969</a>
+
 </li>
 <li class="linkedin"><i class="fab fa-linkedin"></i>
-<a href="https://www.linkedin.com/in/stevie-saponja-4161531a/" target="_blank">Stevie Saponja</a>
+<a href="https://www.linkedin.com/in/stevie-saponja-4161531a/" target="_blank">LinkedIn</a>
 </li>
 <li class="github"><i class="fab fa-github"></i>
-<a href="https://github.com/sharu725" target="_blank">sharu725</a>
+<a href="https://github.com/steviesaps/" target="_blank">GitHub</a>
 
 </li>
 </ul>
