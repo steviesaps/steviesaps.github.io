@@ -1,137 +1,361 @@
-## Welcome to my AWS re/Start GitHub Page
 
-Welcome to my first AWS re/Start GitHub page.
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<title>My Resume</title>
 
-This is a portfolio of my first foray in Python as part of the AWS re/Start course.
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A beautiful Jekyll theme for creating resume">
 
-### Python
+<link rel="shortcut icon" href="favicon.ico">
 
-Below are some examples of how I've progressed with Python using the hands on labs during this course:
+<link rel="stylesheet" href="/online-cv/assets/plugins/bootstrap/css/bootstrap.min.css">
 
-```markdown
-#FunWIthStrings.py
+<link rel="stylesheet" href="/online-cv/assets/plugins/font-awesome/css/all.css">
 
-first_str = "I love dogs"
+<link id="theme-style" rel="stylesheet" href="/online-cv/assets/css/main.css">
 
-second_Str = " and cats"
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="wrapper">
+<div class="sidebar-wrapper">
+<div class="profile-container">
+<img class="avatar" src="/online-cv/assets/images/profile.png" alt="profile picture" />
+<h1 class="name">Stevie Saponja</h1>
+<h3 class="tagline">Resume</h3>
+</div>
+<div class="contact-container container-block">
+<ul class="list-unstyled contact-list">
+<li class="email"><i class="fas fa-envelope"></i>
+<a href="mailto:stevie.saponja@gmail.com">stevie.saponja@gmail.com</a>
+</li>
+<li class="phone"><i class="fas fa-phone"></i>
+<a href="tel:012 345 6789">012 345 6789</a>
+</li>
+<li class="website"><i class="fas fa-globe-americas"></i>
+<a href="http://blog.webjeda.com" target="_blank">blog.webjeda.com</a>
+</li>
+<li class="linkedin"><i class="fab fa-linkedin"></i>
+<a href="https://www.linkedin.com/in/stevie-saponja-4161531a/" target="_blank">Stevie Saponja</a>
+</li>
+<li class="github"><i class="fab fa-github"></i>
+<a href="https://github.com/sharu725" target="_blank">sharu725</a>
 
-newstr = first_str + second_str
+</li>
+</ul>
+</div>
+<div class="education-container container-block">
+<h2 class="container-block-title">
+Education
+</h2>
+<div class="item">
+<h4 class="degree">BA Film and Television Studies</h4>
+<h5 class="meta">University of Nottingham</h5>
+<div class="time">2009 - 2013</div>
+</div>
+<div class="item">
+<h4 class="A-Levels">A,B,B</h4>
+<h5 class="meta">City of Stoke on Trent Sixth Form</h5>
+<div class="time">2006 - 2008</div>
+</div>
+<div class="item">
+<h4 class="GCSEs">6 A*s, 4 As, 1 B</h4>
+<h5 class="meta">Wolstanton High School</h5>
+<div class="time">2001 - 2006</div>
+</div>
+<div class="languages-container container-block">
+<h2 class="container-block-title">
+Languages
+</h2>
+<ul class="list-unstyled interests-list">
+<li>
+English
+<span class="lang-desc">(Native)</span>
+</li>
+<li>
+French
+<span class="lang-desc">(Professional)</span>
+</li>
+<li>
+Spanish
+<span class="lang-desc">(Professional)</span>
+</li>
+</ul>
+</div>
+<div class="interests-container container-block">
+<h2 class="container-block-title">
+Interests
+</h2>
+<ul class="list-unstyled interests-list">
+<li>Climbing</li>
+<li>Snowboarding</li>
+<li>Cooking</li>
+</ul>
+</div>
+<div class="remove-container container-block">
+<h2 class="container-block-title">
+About Theme
+</h2>
+<ul class="list-unstyled interests-list">
+<li><a target="_blank" href="https://www.youtube.com/watch?v=Jnmj1dXDbNk">How to use?</a></li>
+<li><a class="github-button" href="https://github.com/sharu725/online-cv" data-icon="octicon-star" data-show-count="true" aria-label="Star sharu725/online-cv on GitHub">Star</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+</ul>
+</div>
+</div>
+<div class="main-wrapper">
+<section class="section summary-section">
+<h2 class="section-title">
+<span class="fa-stack fa-xs">
+<i class="fas fa-circle fa-stack-2x"></i>
+<i class="fas fa-user fa-stack-1x fa-inverse"></i>
+</span>
+Career Profile
+</h2>
+<div class="summary">
+<p>Summarise your career here lorem ipsum dolor sit amet, consectetuer
+adipiscing elit. You can <a href="">download this free resume/CV template here</a>.
+Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Donec quam felis, ultricies nec, pellentesque eu.
+Second paragraph if required.</p>
+</div>
+</section>
+<section class="section experiences-section">
+<h2 class="section-title">
+<span class="fa-stack fa-xs">
+<i class="fas fa-circle fa-stack-2x"></i>
+<i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+</span>
+Experiences
+</h2>
+<div class="item">
+<div class="meta">
+<div class="upper-row">
+<h3 class="job-title">Lead Developer</h3>
+<div class="time">2015 - Present</div>
+</div>
+<div class="company">Startup Hubs, San Francisco</div>
+</div>
+<div class="details">
+<p>Describe your role here lorem ipsum dolor sit amet, consectetuer
+adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes,
+nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+error sit voluptatem accusantium doloremque laudantium, totam rem
+aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+architecto beatae vitae dicta sunt explicabo.</p>
+<ul>
+<li>Bullet point</li>
+<li>Bullet point</li>
+</ul>
+</div>
+</div>
+<div class="item">
+<div class="meta">
+<div class="upper-row">
+<h3 class="job-title">Senior Software Engineer</h3>
+<div class="time">2014 - 2015</div>
+</div>
+<div class="company">Google, London</div>
+</div>
+<div class="details">
+<p>Describe your role here lorem ipsum dolor sit amet, consectetuer
+adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes,
+nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem.</p>
+<ul>
+<li>Bullet point</li>
+<li>Bullet point</li>
+</ul>
+</div>
+</div>
+<div class="item">
+<div class="meta">
+<div class="upper-row">
+<h3 class="job-title">UI Developer</h3>
+<div class="time">2012 - 2014</div>
+</div>
+<div class="company">Amazon, London</div>
+</div>
+<div class="details">
+<p>Describe your role here lorem ipsum dolor sit amet, consectetuer
+adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes,
+nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem.</p>
+<ul>
+<li>Bullet point</li>
+<li>Bullet point</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="section projects-section">
+<h2 class="section-title">
+<span class="fa-stack fa-xs">
+<i class="fas fa-circle fa-stack-2x"></i>
+ <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+</span>
+Projects
+</h2>
+<div class="intro">
+<p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+</p>
+</div>
+<div class="item">
+<span class="project-title">
+<a href="#hook" target="_blank">Velocity</a>
+</span>
+- <span class="project-tagline">A responsive website template designed to help startups promote, market and sell their products.</span>
+</div>
+<div class="item">
+<span class="project-title">
+<a href="#" target="_blank">DevStudio</a>
+</span>
+- <span class="project-tagline">A responsive website template designed to help web developers/designers market their services.</span>
+</div>
+<div class="item">
+<span class="project-title">
+<a href="#" target="_blank">Tempo</a>
+</span>
+- <span class="project-tagline">A responsive website template designed to help startups promote their products or services and to attract users &amp; investors</span>
+</div>
+<div class="item">
+<span class="project-title">
+<a href="#" target="_blank">Atom</a>
+</span>
+- <span class="project-tagline">A comprehensive website template solution for startups/developers to market their mobile apps.</span>
+</div>
+<div class="item">
+<span class="project-title">
+<a href="#" target="_blank">Delta</a>
+</span>
+- <span class="project-tagline">A responsive Bootstrap one page theme designed to help app developers promote their mobile apps</span>
+</div>
+</section>
+<section class="section publications-section">
+<h2 class="section-title">
+<span class="fa-stack fa-xs">
+<i class="fas fa-circle fa-stack-2x"></i>
+<i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+</span>
+Publications
+</h2>
+<div class="intro">
+<p>You can list your publications in this section. Lorem ipsum dolor sit
+amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+bibendum fringilla a eu lectus.</p>
+</div>
+<div class="item">
+<li><a href="#">The Art of Computer Programming</a></li>
+<div class="publication-authors">Donald E. Knuth</div>
+<div class="publication-conference">Addison-Wesley, 1968</div>
+</div>
+<div class="item">
+<li><a href="#">Genetic Programming III: Darwinian Invention &amp; Problem Solving</a></li>
+<div class="publication-authors">Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.</div>
+<div class="publication-conference">Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)</div>
+</div>
+<div class="item">
+<li><a href="#">A syntax directed compiler for Algol 60</a></li>
+<div class="publication-authors">Edgar T. Irons</div>
+<div class="publication-conference">Comm. ACM 4 (1961), 51–55</div>
+</div>
+</section>
+<section class="skills-section section">
+<h2 class="section-title">
+<span class="fa-stack fa-xs">
+<i class="fas fa-circle fa-stack-2x"></i>
+<i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+</span>
+Skills &amp; Proficiency
+</h2>
+<div class="skillset">
+<div class="item">
+<h3 class="level-title">Python & Django</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="98%">
+</div>
+</div>
+</div>
+<div class="item">
+<h3 class="level-title">Javascript & jQuery</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="98%">
+</div>
+</div>
+</div>
+<div class="item">
+<h3 class="level-title">Angular</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="98%">
+</div>
+</div>
+</div>
+<div class="item">
+<h3 class="level-title">HTML5 & CSS</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="95%">
+</div>
+</div>
+</div>
+<div class="item">
+<h3 class="level-title">Ruby on Rails</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="85%">
+</div>
+</div>
+</div>
+<div class="item">
+<h3 class="level-title">Sketch & Photoshop</h3>
+<div class="level-bar">
+<div class="level-bar-inner" data-level="60%">
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<footer class="footer">
+<div class="text-center">
 
-print(newStr) 
+<small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+</small>
+</div>
+</footer>
 
-```
-```markdown
-#HelloWorld.py
-import json
+<script type="text/javascript" src="/online-cv/assets/plugins/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/online-cv/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
-filename = 'userName.json'
-name = ''
-#check for a history file
-try:
-    with open(filename, 'r') as r:
-        #load the user's name from the history file
-        name = json.load(r)
-except IOError:
-        print("First-time login")
+<script type="text/javascript" src="/online-cv/assets/js/main.js"></script>
 
-# If the user was found in the history file, welcome them back
-if name != "":
-    print("Welcome back, " + name + "!")
-else:
-    # If the history file doesn't exist, ask the user for their name
-    name = input("Hello! What's your name? ")
-    print("Welcome, " + name + "!")
-
-# Save the user's name to the history file
-try:
-    with open(filename, 'w') as f:
-        json.dump(name, f)
-except IOError:
-    print("There was a problem writing to the history file.")
-```
-```markdown
-#FunWIthFunctions - The Caesar Cipher
-# defining a function - 'getDoubleAlphabet'
-
-def getDoubleAlphabet(alphabet):
-   doubleAlphabet = alphabet + alphabet
-   return doubleAlphabet
-
-
-# defining a function - that will request a message to encrypt
-
-def getMessage():
-   stringToEncrypt = input("Please enter a message to encrypt: ")
-   return stringToEncrypt
-
-
-# defining a function - requesting a cipher key (26 would just shift the alphabet to the original position)
-
-def getCipherKey():
-   shiftAmount = input( "Please enter a key (whole number from 1-25): ")
-   return shiftAmount
-
-
-# coding for a message encryption algorithm.  
-# 3 arguments - the message, the cipherKey & the alphabet
-
-def encryptMessage(message, cipherKey, alphabet):
-    encryptedMessage = ""
-    uppercaseMessage = ""
-    uppercaseMessage = message.upper()
-    for currentCharacter in uppercaseMessage:
-        position = alphabet.find(currentCharacter)
-        newPosition = position + int(cipherKey)
-        if currentCharacter in alphabet:
-            encryptedMessage = encryptedMessage + alphabet[newPosition]
-        else:
-            encryptedMessage = encryptedMessage + currentCharacter
-    return encryptedMessage
-
-
-# decrypting the message - reuses the encryptMessage() function
-
-def decryptMessage(message, cipherKey, alphabet):
-    decryptKey = -1 * int(cipherKey)
-    return encryptMessage(message, decryptKey, alphabet)
-
-# using the previous functions to create a 'Caesar Cipher' program - also a function
-# defining the string that is the alphabet that the above functions use.
-
-def runCaesarCipherProgram():
-    myAlphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    print(f'Alphabet: {myAlphabet}')
-    myAlphabet2 = getDoubleAlphabet(myAlphabet)
-    print(f'Alphabet2: {myAlphabet2}')
-    myMessage = getMessage()
-    print(myMessage)
-    myCipherKey = getCipherKey()
-    print(myCipherKey)
-    myEncryptedMessage = encryptMessage(myMessage, myCipherKey, myAlphabet2)
-    print(f'Encrypted Message: {myEncryptedMessage}')
-    myDecryptedMessage = decryptMessage(myEncryptedMessage, myCipherKey, myAlphabet2)
-    print(f'Decypted Message: {myDecryptedMessage}')
-    
-    
-# to run the cipher - you must call the function
-runCaesarCipherProgram()
-```
-
-### Some quiz results from my time on the course
-[Reading and Writing CSV Files in Python](https://realpython.com/quizzes/python-csv/results/?t=eyJjIjo3LCJuIjo3LCJxIjozNCwic2lnIjoiempFM1k1MV8kZE5XUEg2IX4oaXNDUE9gdXc1WXVadyNSaXtnezFuKyIsInQiOjc2LCJ2IjozfQ==)
-<a href="https://imgur.com/nGmz4jV"><img src="https://i.imgur.com/nGmz4jV.png" title="source: imgur.com" /></a>
-
-### My Background
-
-I have always been curious about new technology - furthering my understanding of these and constantly enhancing my skill set were key when undertaking this course.  I don't come from a traditional tech background.  I have a background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as an integral team member.
-
-My full job history, experience and skills can be explored on my LinkedIn profile at: [HERE](https://www.linkedin.com/in/stevie-saponja-4161531a/)
-
-
-### Contact
-
-I'm available now to discuss entry level roles on stevie.saponja@gmail.com
-
-
-
-I look forward to hearing from you!
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-83979019-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
