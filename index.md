@@ -57,25 +57,19 @@ Education
 <h4 class="AWS">AWS re/Start</h4>
 <h5 class="meta">TechTalent Academy</h5>
 <div class="time">February 2021 - April 2021</div>
-      
-</div>
-</div>
+<br>
 </h2>
 <div class="item">
 <h4 class="degree">Degree: BA Film and Television Studies</h4>
 <h5 class="meta">University of Nottingham</h5>
 <div class="time">2009 - 2013</div>
-      
-</div>
+<br>
 
-</div>
 <div class="item">
 <h4 class="A-Levels">A Levels: A,B,B</h4>
 <h5 class="meta">City of Stoke on Trent Sixth Form</h5>
 <div class="time">2006 - 2008</div>
-      
-</div>
-</div>
+<br>
 <div class="item">
 <h4 class="GCSEs">GCSEs: 6 A*s, 4 As, 1 B</h4>
 <h5 class="meta">Wolstanton High School</h5>
