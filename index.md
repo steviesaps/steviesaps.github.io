@@ -76,26 +76,9 @@ Languages
 English
 <span class="lang-desc">(Native)</span>
 </li>
-<li>
-French
-<span class="lang-desc">(Professional)</span>
-</li>
-<li>
-Spanish
-<span class="lang-desc">(Professional)</span>
-</li>
+
 </ul>
-</div>
-<div class="interests-container container-block">
-<h2 class="container-block-title">
-Interests
-</h2>
-<ul class="list-unstyled interests-list">
-<li>Climbing</li>
-<li>Snowboarding</li>
-<li>Cooking</li>
-</ul>
-</div>
+
 <div class="remove-container container-block">
 <h2 class="container-block-title">
 About Theme
@@ -352,6 +335,18 @@ Skills &amp; Proficiency
   })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
   ga('create', 'UA-83979019-1', 'auto');
   ga('send', 'pageview');
+      
+      </div>
+<div class="interests-container container-block">
+<h2 class="container-block-title">
+Interests
+</h2>
+<ul class="list-unstyled interests-list">
+<li>Climbing</li>
+<li>Snowboarding</li>
+<li>Cooking</li>
+</ul>
+</div>
 </script>
 </body>
 </html>
